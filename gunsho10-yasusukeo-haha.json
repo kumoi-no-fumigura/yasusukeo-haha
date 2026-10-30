@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/yasusukeo-haha",
  "yomi": "やすすけおうのははのしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "康資王母",
+  "desc": "康資王母（四条宮筑前）の家集。「伯母集」とも呼ぶ。宮仕えの中での贈答や、寛治8年（1094）の関白前太政大臣家の歌合での歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -1792,6 +1797,6 @@
   "poems": 154,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
