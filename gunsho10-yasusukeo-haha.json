@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 5,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho10-yasusukeo-haha-0001",
@@ -2373,6 +2376,7 @@
   "poems": 154,
   "editions": 1,
   "updated": "2026-11-05",
-  "updated_at": "2026-11-05T03:41:00+09:00"
+  "updated_at": "2026-11-05T03:41:00+09:00",
+  "yaku": 5
  }
 }
